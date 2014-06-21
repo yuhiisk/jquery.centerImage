@@ -1,0 +1,4 @@
+jquery.centerImage
+==================
+
+jquery plugin
